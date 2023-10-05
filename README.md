@@ -15,4 +15,4 @@ Nesse repositório vamos adicionar tudo relacionado a testes, banco de dados e d
 - [**Pedro Pacheco**](https://github.com/pedro-pacheco16)
 - [**Vitor Cesario**](https://github.com/Vitor676)
 
-# Projeto de conclusão de curso atrelado a Generation Brasil.
+# Projeto de conclusão de curso atrelado a Generation.
