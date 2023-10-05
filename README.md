@@ -4,7 +4,7 @@ Rede social voltada a saúde mental baseada na ODS 3 da ONU. O intuito é criar 
 
 Nesse repositório vamos adicionar tudo relacionado a testes, banco de dados e documentos importantes.
 
-[ODS 3](https://agenda2030.direitorp.usp.br/wp-content/uploads/sites/1048/2022/02/ODS-3.png)
+![ODS 3](https://agenda2030.direitorp.usp.br/wp-content/uploads/sites/1048/2022/02/ODS-3.png)
 
 ***Participantes***
 
