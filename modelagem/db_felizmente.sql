@@ -1,7 +1,7 @@
 CREATE TABLE [tb_postagens] (
 	id bigint NOT NULL,
 	titulo varchar(255) NOT NULL,
-	estado bit NOT NULL,
+	estado varchar(255) NOT NULL,
 	data date NOT NULL,
 	texto text NOT NULL,
 	link varchar(510) NOT NULL,
